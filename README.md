@@ -1,0 +1,2 @@
+# sylsimu
+Ensimmäinen versio sylinterisimulaattorista
